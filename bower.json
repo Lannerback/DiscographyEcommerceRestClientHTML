@@ -1,0 +1,21 @@
+{
+  "name": "DiscographyEcommerce",
+  "authors": [
+    "Adriano D'Aguanno <adriano.daguanno96@gmail.com>"
+  ],
+  "description": "client for rest discography ecommerce",
+  "main": "",
+  "license": "MIT",
+  "homepage": "",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "jQuery": "^2.2.3",
+    "bootstrap": "^3.3.6"
+  }
+}

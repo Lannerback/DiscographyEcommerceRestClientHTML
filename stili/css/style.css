@@ -173,8 +173,7 @@ footer a{
     font-style: italic;
     font-family: sans-serif;
 }
-.table-album > tbody {
-}
+
 
 
 input[type="button"]{
@@ -192,11 +191,15 @@ input[type="button"]:active {
     background: #1b435e;
 }
 
-
-.carousel-inner img {
-    width: 100%; /* Set width to 100% */
-    min-height: 200px;
+#carousel-inner{
+    //max-height: ;
 }
+#carousel-inner img {
+    width: 100%; 
+    min-height: 200px;
+    //max-height: 80%;   
+}
+
 
 /* Hide the carousel text when the screen is less than 600 pixels wide */
 @media (max-width: 600px) {
